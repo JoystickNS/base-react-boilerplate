@@ -4,48 +4,58 @@
   <img style="margin: 0 auto; display: block"src="./images/App.png">
 </div>
 
+<style>
+  ul {
+    padding: 0;
+  }
+
+  li {
+    list-style-type: none;
+  }
+</style>
+
 <br>
 
 <h1>Features</h1>
 
 <ul>
   <li>
-    React 
     <img src="./images/React.svg" height="16px">
+    React
   </li>
 
   <li>
-    TypeScript 
     <img src="./images/TypeScript.svg" height="16px">
+    TypeScript 
   </li>  
 
   <li>
-    Webpack 5 
     <img src="./images/Webpack.svg" height="16px">
+    Webpack 5 
   </li>  
 
   <li>
-    Babel 
     <img src="./images/Babel.svg" height="16px">
+    Babel 
   </li>  
 
   <li>
-    ESLint 
     <img src="./images/ESLint.svg" height="16px">
+    ESLint 
   </li>
 
   <li>
-    Prettier 
     <img src="./images/Prettier.svg" height="16px">
+    Prettier 
   </li> 
 
   <li>
-    Stylelint 
     <img src="./images/Stylelint.svg" height="16px">
+    Stylelint 
   </li>  
 
   <li>
-    PostCSS 
     <img src="./images/PostCSS.svg" height="16px">
+    PostCSS 
   </li>  
 </ul>
