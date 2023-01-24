@@ -4,22 +4,12 @@
   <img style="margin: 0 auto; display: block"src="./images/App.png">
 </div>
 
-<style>
-  ul {
-    padding: 0;
-  }
-
-  li {
-    list-style-type: none;
-  }
-</style>
-
 <br>
 
 <h1>Features</h1>
 
-<ul>
-  <li>
+<ul style="padding: 0;">
+  <li style="list-style-type: none">
     <img src="./images/React.svg" height="16px">
     React
   </li>
