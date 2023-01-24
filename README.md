@@ -8,44 +8,42 @@
 
 <h1>Features</h1>
 
-<ul style="padding: 0;">
-  <li style="list-style-type: none">
-    <img src="./images/React.svg" height="16px">
-    React
-  </li>
+<div>
+  <img src="./images/React.svg" height="16px">
+  React
+</div>
 
-  <li>
-    <img src="./images/TypeScript.svg" height="16px">
-    TypeScript 
-  </li>  
+<div>
+  <img src="./images/TypeScript.svg" height="16px">
+  TypeScript 
+</div>
 
-  <li>
-    <img src="./images/Webpack.svg" height="16px">
-    Webpack 5 
-  </li>  
+<div>
+  <img src="./images/Webpack.svg" height="16px">
+  Webpack 5 
+</div>
 
-  <li>
-    <img src="./images/Babel.svg" height="16px">
-    Babel 
-  </li>  
+<div>
+  <img src="./images/Babel.svg" height="16px">
+  Babel 
+</div>
 
-  <li>
-    <img src="./images/ESLint.svg" height="16px">
-    ESLint 
-  </li>
+<div>
+  <img src="./images/ESLint.svg" height="16px">
+  ESLint
+</div> 
 
-  <li>
-    <img src="./images/Prettier.svg" height="16px">
-    Prettier 
-  </li> 
+<div>
+  <img src="./images/Prettier.svg" height="16px">
+  Prettier
+</div> 
 
-  <li>
-    <img src="./images/Stylelint.svg" height="16px">
-    Stylelint 
-  </li>  
+<div>
+  <img src="./images/Stylelint.svg" height="16px">
+  Stylelint
+</div> 
 
-  <li>
-    <img src="./images/PostCSS.svg" height="16px">
-    PostCSS 
-  </li>  
-</ul>
+<div>
+  <img src="./images/PostCSS.svg" height="16px">
+  PostCSS 
+</div>
